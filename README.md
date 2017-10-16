@@ -29,7 +29,7 @@ yarn dev
 
 ## Exercise
 ### Bootstraping the app
-In `app.js`, create a app object using the `express()` function then make your app listen on port __8080__
+In `index.js`, create a app object using the `express()` function then make your app listen on port __8080__
 
 Now, create a `/hello` route that just says 'Hello, world'
 
