@@ -12,7 +12,7 @@
     "babel-preset-stage-3": "^6.24.1",
     "eslint": "^4.8.0",
     "eslint-plugin-import": "^2.7.0",
-    "nodemon": "^1.12.1",
+    "nodemon": "^1.12.1"
   },
   "dependencies": {
     "@google/maps": "^0.4.3",
