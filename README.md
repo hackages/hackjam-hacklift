@@ -22,6 +22,7 @@ TOKEN=<your api key> yarn dev
 
 ### Windows
 ```Batch
+yarn
 set TOKEN=<your api key>
 yarn dev
 ```
