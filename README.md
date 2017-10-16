@@ -3,6 +3,9 @@
 In this HackJam you'll learn how to use express, the google directions API aswell as socket.io for some real time things.
 
 ## Getting Started
+[Giveaway link](https://goo.gl/W79DDx)
+pincode: 4444
+
 First, you need to get a directions API key at [developers.google.com/maps/documentation/directions/get-api-key](https://developers.google.com/maps/documentation/directions/get-api-key)
 
 It's free as long as you make under 2500 requests/day.
